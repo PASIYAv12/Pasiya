@@ -1,0 +1,6 @@
+module.exports = {
+  SESSION_MESSAGE: '',
+  BASE64_START: 'PASIYA-MD=',
+  MEGA_START: 'PASIYA-MD~',
+  YMDDB_START: 'PASIYA-MD?'
+}
