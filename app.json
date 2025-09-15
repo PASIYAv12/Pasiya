@@ -74,7 +74,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "ᴅᴜʟʟᴀʜ-xᴍᴅ v²",
+      "value": "PASIYA-MD",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -99,18 +99,18 @@
     },
     "SESSION_ID": {
       "description": "put your session ID , the code you receive after scanning Qr code",
-      "value": "",
+      "value": "ඔයාගෙ in box එකට එම PASIYA-MD MEAN Session_id  එක දෙන්න ",
       "required": true
     },
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "ᴅᴜʟʟᴀʜ xᴍᴅ"
+      "value": "PASIYA-MD"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "255716945971"
+      "value": "94766359869"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
