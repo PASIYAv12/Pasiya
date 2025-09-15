@@ -1,5 +1,5 @@
 const NEWS_LETTER_JID = "https://chat.whatsapp.com/Dg9rNdDl1HBJ12LnOmH0oD"; // Replace with your real one
-const BOT_NAME = "DULLAH-XMD";
+const BOT_NAME = "PASIYA-MD";
 const DEFAULT_THUMBNAIL = "https://files.catbox.moe/533oqh.jpg";
 
 const createContext = (userJid, options = {}) => ({
@@ -21,7 +21,7 @@ const createContext = (userJid, options = {}) => ({
             thumbnailUrl: options.thumbnail || DEFAULT_THUMBNAIL,
             mediaType: 1,
             mediaUrl: options.mediaUrl || undefined,
-            sourceUrl: options.sourceUrl || "https://wa.me/254728782591", // link to bot or business
+            sourceUrl: options.sourceUrl || "https://wa.me/94784548818", // link to bot or business
             showAdAttribution: true,
             renderLargerThumbnail: false 
         }
