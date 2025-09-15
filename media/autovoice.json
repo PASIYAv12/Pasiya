@@ -1,6 +1,9 @@
 {
-  "hello": "dullah.m4a",
-  "bye": "dullah.m4a",
-  "dullah": "menu.m4a",
-  "xmd": "menu.m4a"
+
+"mm": "https://github.com/PASIYAv12/PASIYA-MD/raw/refs/heads/main/my_data/Media/mm.mp3",
+"mk": "https://github.com/PASIYAv12/PASIYA-MD/raw/refs/heads/main/my_data/Media/mk.mp3",
+"gn": "https://github.com/PASIYAv12/PASIYA-MD/raw/refs/heads/main/my_data/Media/gn.mp3",
+"good night": "https://github.com/PASIYAv12/PASIYA-MD/raw/refs/heads/main/my_data/Media/gn.mp3",
+"gm": "https://github.com/PASIYAv12/PASIYA-MD/raw/refs/heads/main/my_data/Media/gm.mp3",
+"good morning": "https://github.com/PASIYAv12/PASIYA-MD/raw/refs/heads/main/my_data/Media/gm.mp3"
 }
