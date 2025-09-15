@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const filePath = path.join(__dirname, '../xmd/alive.json');
+const filePath = path.join(__dirname, '../pasiya-md/alive.json');
 
 // Load data from JSON file
 function loadAliveData() {
