@@ -1,5 +1,5 @@
 {
-  "name": "DULLAH-XMD",
+  "name": "PASIYA-MD",
   "version": "2.1.0",
   "description": "Advanced WhatsApp bot using Baileys",
   "main": "index.js",
@@ -24,7 +24,7 @@
     "whatsapp-bot",
     "dullahxmd"
   ],
-  "author": "Dullah xmd",
+  "author": "PASIYA-MD",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
