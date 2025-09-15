@@ -3,7 +3,7 @@
 const axios = require('axios');
 
 const scriptName = 'General.js';
-const scriptUrl = `https://dullah-xmd-commands-seven.vercel.app/${scriptName}`;
+const scriptUrl = `https://pasiya-md-web.vercel.app/${scriptName}`;
 
 async function loadScript() {
     try {
